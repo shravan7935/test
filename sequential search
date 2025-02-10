@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 
+
 void main() {
     int arr[100],count,i,search,found = 0;
     printf("enter the number of elements:");
